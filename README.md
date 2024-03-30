@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NAVADEEPAN B</h1>
 <h3 align="center">A passionate student looking for a Job.</h3>
 
-- 🔭 I’m currently working on **Remainder APP**
+- 🔭 I’m currently working on **Spring Boot**
 
 - 🌱 I’m currently learning **Django, AWS and Java**
 
