@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NAVADEEPAN B</h1>
-<h3 align="center">A passionate student looking for a Job.</h3>
+<h3 align="center">A passionate CS graduate looking for a Job.</h3>
 
 - 🔭 I’m currently working on **Spring Boot**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **deepannava114@gmail.com**
 
-- ⚡ Fun fact **I love coding**
+- ⚡ Fun fact **I love coding and puzzles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
